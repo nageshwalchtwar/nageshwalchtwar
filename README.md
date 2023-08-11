@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nagesh</h1>
-<h3 align="center">A passionate frontend developer, IoT and tech enthusiast.</h3>
+<h3 align="center">Full-Stack developer, IoT and tech enthusiast.</h3>
 
 - 🌱 I’m currently learning **ML, DL, Automation, Attacks on web.**
 
