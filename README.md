@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [http://GitHub.com/nageshwalchtwar/nageshwalchtwar.com](http://GitHub.com/nageshwalchtwar/nageshwalchtwar.com)
 
-- 💬 Ask me about **ReactJs, Django, NodeJs**
+- 💬 Ask me about **ReactJs, Django, NodeJs, DevOps**
 
 - 📫 How to reach me **nageshwalchtwar257@gmail.com**
 
