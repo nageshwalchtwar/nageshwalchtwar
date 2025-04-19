@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nagesh</h1>
 <!-- <h3 align="center">Full-Stack developer, IoT and tech enthusiast.</h3> -->
 
-- 🌱 I’m currently learning **ML, DL, Automation, Cyber Security.**
+- 🌱 I’m currently pursuing Master's at IIIT Hyderabad and learning **ML, DL, Automation, Cyber Security.**
 
-- 👨‍💻 All of my projects are available at [http://GitHub.com/nageshwalchtwar/nageshwalchtwar.com](http://GitHub.com/nageshwalchtwar/nageshwalchtwar.com)
+- 👨‍💻 All of my projects are available at [http://gitHub.com/nageshwalchtwar/nageshwalchtwar.com](http://GitHub.com/nageshwalchtwar/nageshwalchtwar.com)
 
 - 💬 Ask me about **ReactJs, Django, NodeJs, DevOps**
 
